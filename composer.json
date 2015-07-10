@@ -49,5 +49,6 @@
             "php oil r install"
         ]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    // Missing oAuth2 Library
 }
